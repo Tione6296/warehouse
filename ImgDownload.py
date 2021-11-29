@@ -4,7 +4,7 @@ import os
 import urllib.error
 import urllib.request
 
-# range 4376 , url_list[100:4376]
+# range 4376
 path = os.getcwd()
 url_list = ['https://static-image.benghuai.com/hsod2_webview/images/broadcast_top/equip_icon/png/{:03}.png'.format(i) for i in range(4376)]
 #url_list = ['https://static.image.mihoyo.com/hsod2_webview/images/broadcast_top/equip_icon/png/{:03}.png'.format(i) for i in range(4376)]
