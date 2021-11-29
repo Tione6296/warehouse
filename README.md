@@ -1,1 +1,2 @@
 # warehouse
+倉庫
