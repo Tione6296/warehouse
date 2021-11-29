@@ -20,7 +20,7 @@ def download_file(url, path):
 def download_file_dir(url, dst_dir):
     download_file(url, os.path.join(dst_dir, os.path.basename(url)))
 
-for url in url_list[100:]:
+for url in url_list:
     download_file_dir(url, path)
     time.sleep(sleep_time_sec)
 
