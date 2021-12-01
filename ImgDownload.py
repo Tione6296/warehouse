@@ -5,7 +5,6 @@ import urllib.error
 import urllib.request
 
 #day at 20211130
-# range 4376 , url_list[100:4376]
 
 path = os.getcwd()
 
