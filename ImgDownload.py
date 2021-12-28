@@ -10,7 +10,7 @@ path = os.getcwd()
 
 #url_list = ['https://hsod2-webview.s3.amazonaws.com/images/broadcast_top/equip_icon/{:03}.jpg'.format(i) for i in range(4376)]#601
 #url_list = ['https://static-image.benghuai.com/hsod2_webview/images/broadcast_top/equip_icon/png/{:03}.png'.format(i) for i in range(4376)]#3170
-url_list = ['https://static.image.mihoyo.com/hsod2_webview/images/broadcast_top/equip_icon/png/{:03}.png'.format(i) for i in range(4376)]#4376
+#url_list = ['https://static.image.mihoyo.com/hsod2_webview/images/broadcast_top/equip_icon/png/{:03}.png'.format(i) for i in range(4376)]#4376
 #url_list = ['https://hsod2-webview.s3.amazonaws.com/images/broadcast_top/equip_image/{:03}I.png'.format(i) for i in range(3170)]#3170
 #url_list = ['https://hsod2-webview.s3.amazonaws.com/images/broadcast_top/skin/{}.png'.format(i) for i in range(50)]#36
 #url_list = ['https://static.image.mihoyo.com/hsod2_webview/images/broadcast_top/map_icon/picture/properties/{:03}.png'.format(i) for i in range(100)]#61
@@ -18,6 +18,7 @@ url_list = ['https://static.image.mihoyo.com/hsod2_webview/images/broadcast_top/
 #url_list = ['https://static.image.mihoyo.com/hsod2_webview/images/broadcast_top/equip_website/zombie/{}.png'.format(i) for i in range(100)]#92
 #url_list = ['https://static.image.mihoyo.com/hsod2_webview/images/broadcast_top/equip_website/bubble/{}.png'.format(i) for i in range(100)]#92
 #url_list = ['https://static-image.benghuai.com/hsod2_webview/images/broadcast_top/equip_website/{:03}.png'.format(i) for i in range(4376)]#3739
+url_list = ['https://static-image.benghuai.com/hsod2_webview/images/broadcast_top/emblem_list/{:03}.png'.format(i) for i in range (400)]
 
 #url_list = [''.format(i) for i in range(4376)]
 
