@@ -18,7 +18,7 @@ path = os.getcwd()
 #url_list = ['https://static.image.mihoyo.com/hsod2_webview/images/broadcast_top/equip_website/zombie/{}.png'.format(i) for i in range(100)]#92
 #url_list = ['https://static.image.mihoyo.com/hsod2_webview/images/broadcast_top/equip_website/bubble/{}.png'.format(i) for i in range(100)]#92
 #url_list = ['https://static-image.benghuai.com/hsod2_webview/images/broadcast_top/equip_website/{:03}.png'.format(i) for i in range(4376)]#3739
-url_list = ['https://static-image.benghuai.com/hsod2_webview/images/broadcast_top/emblem_list/{:03}.png'.format(i) for i in range (400)]
+url_list = ['https://static-image.benghuai.com/hsod2_webview/images/broadcast_top/emblem_list/{:03}.png'.format(i) for i in range (400)]#366
 
 #url_list = [''.format(i) for i in range(4376)]
 
